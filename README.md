@@ -1,0 +1,2 @@
+# LodgeLogic-Multi-Dimensional-Hotel-Analytics-Suite
+LodgeLogic is a data-driven intelligence platform designed to extract actionable insights from complex hotel booking records. Developed in Scala, the system utilizes functional programming techniques and mathematical normalization to evaluate hotel performance across three critical business dimensions: market demand, consumer value, profitability.
